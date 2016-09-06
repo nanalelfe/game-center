@@ -39,5 +39,6 @@ Type the following in terminal to run the python file:
 
 #Authors 
 
+* Nana Nosirova
 * Humair Khan
-* Nargiza Nosirova
+
